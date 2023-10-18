@@ -17,6 +17,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Character-LLM: A Trainable Agent for Role-Playing**](https://arxiv.org/pdf/2310.10158v1.pdf) | EMNLP23 | 2023-10-16 | [trainable-agents](https://github.com/choosewhatulike/trainable-agents) | - |
 | [**Can ChatGPT Assess Human Personalities? A General Evaluation Framework**](https://arxiv.org/pdf/2303.01248.pdf) | EMNLP23 | 2023-10-13 | [ChatGPT-MBTI](https://github.com/Kali-Hac/ChatGPT-MBTI) | - |
 | [**Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters**](https://arxiv.org/abs/2211.06869) | EMNLP23 | 2023-10-09 | [HPD](https://nuochenpku.github.io/HPD.github.io/) | - |
 | [**RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models**](https://arxiv.org/abs/2310.00746) | arXiv | 2023-10-01 | [RoleLLM](https://github.com/InteractiveNLP-Team/RoleLLM-public) | - |
