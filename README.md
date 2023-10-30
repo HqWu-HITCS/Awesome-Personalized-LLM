@@ -9,8 +9,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Personalized Chat](#personalized-chat)
     - [Multi-Party Chat](#multi-party-chat)
     - [Evaluation Personality of LLM](#evaluation-personality-of-llm)
-      - [Big Five Factors Evaluation](#big-five-factors-evaluation)
       - [Myers–Briggs Type Indicator (MBTI) Evaluation](#myersbriggs-type-indicator-mbti-evaluation)
+      - [Big Five Factors Evaluation](#big-five-factors-evaluation)
       - [Other Personal Evaluation](#other-personal-evaluation)
   - [Awesome Datasets](#awesome-datasets)
   - [Related Repositories](#related-repositories)
@@ -51,6 +51,14 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Evaluation Personality of LLM
 
+#### Myers–Briggs Type Indicator (MBTI) Evaluation
+
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**](https://arxiv.org/abs/2310.17976) | Arxiv23 | 2023-10-27 | [Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) | - |
+| [**Can ChatGPT Assess Human Personalities? A General Evaluation Framework**](https://arxiv.org/pdf/2303.01248.pdf) | EMNLP23 | 2023-10-13 | [ChatGPT-MBTI](https://github.com/Kali-Hac/ChatGPT-MBTI) | - |
+| [**Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**](https://arxiv.org/abs/2307.16180) | Arxiv | 2023-07-30 | [LLMs-MBTI](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/llms_mbti) | - |
+
 #### Big Five Factors Evaluation
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
@@ -58,13 +66,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 | [**Evaluating and Inducing Personality in Pre-trained Language Models**](https://arxiv.org/abs/2206.07550) | NeurIPS23 | 2023-05-24 | - | - |
 | [**Estimating the Personality of White-Box Language Models**](https://arxiv.org/pdf/2204.12000.pdf) | Arxiv | 2023-05-10 | - | - |
 | [**Identifying and Manipulating the Personality Traits of Language Models**](https://arxiv.org/abs/2212.10276) | Arxiv | 2022-12-20 | - | - |
-
-#### Myers–Briggs Type Indicator (MBTI) Evaluation
-
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Can ChatGPT Assess Human Personalities? A General Evaluation Framework**](https://arxiv.org/pdf/2303.01248.pdf) | EMNLP23 | 2023-10-13 | [ChatGPT-MBTI](https://github.com/Kali-Hac/ChatGPT-MBTI) | - |
-| [**Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**](https://arxiv.org/abs/2307.16180) | Arxiv | 2023-07-30 | [LLMs-MBTI](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/llms_mbti) | - |
 
 #### Other Personal Evaluation
 
