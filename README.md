@@ -65,6 +65,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Do personality tests generalize to Large Language Models?**](https://arxiv.org/pdf/2311.05297) | NeurIPS23-Workshop | 2023-11-10 | - | - |
 | [**The Turing Quest: Can Transformers Make Good NPCs?**](https://aclanthology.org/2023.acl-srw.17.pdf) | ACL23-Workshop | 2023-07-10 | [NPC-Dialogue-Generation](https://github.com/FieryAced/-NPC-Dialogue-Generation) | - |
 | [**Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs**](https://arxiv.org/abs/2305.14693) | Arxiv | 2023-05-24 | - | - |
 | [**Who is GPT-3? An Exploration of Personality, Values and Demographics**](https://arxiv.org/abs/2209.14338) | Arxiv | 2022-12-26 | - | - |
