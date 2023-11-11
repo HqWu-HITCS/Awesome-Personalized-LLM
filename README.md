@@ -27,6 +27,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 | [**RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models**](https://arxiv.org/abs/2310.00746) | arXiv | 2023-10-01 | [RoleLLM](https://github.com/InteractiveNLP-Team/RoleLLM-public) | - |
 | [**ChatHaruhi: Reviving Anime Character in Reality via Large Language Model**](https://arxiv.org/abs/2308.09597) | arXiv | 2023-08-18 | [ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya) | [ChatHaruhi-OpenAI](https://huggingface.co/spaces/chengli-thu/ChatHaruhi-OpenAI) |
 | [**Thespian: Multi-Character Text Role-Playing Game Agents**](https://arxiv.org/pdf/2308.01872.pdf) | arXiv | 2023-08-03 | - | - |
+| [**Role-Play with Large Language Models**](https://arxiv.org/abs/2305.16367) | arXiv | 2023-05-25 | - | - |
 | [**Ontologically Faithful Generation of Non-Player Character Dialogues**](https://arxiv.org/abs/2212.10618) | arXiv | 2023-05-13 | - | - |
 
 
