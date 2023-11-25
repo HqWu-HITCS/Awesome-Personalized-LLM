@@ -8,9 +8,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Role-Playing](#role-playing)
     - [Personalized Chat](#personalized-chat)
     - [Evaluation Personality of LLM](#evaluation-personality-of-llm)
-      - [Myers–Briggs Type Indicator (MBTI) Evaluation](#myersbriggs-type-indicator-mbti-evaluation)
-      - [Big Five Factors Evaluation](#big-five-factors-evaluation)
-      - [Other Personal Evaluation](#other-personal-evaluation)
   - [Awesome Datasets](#awesome-datasets)
   - [Related Repositories](#related-repositories)
 
@@ -37,7 +34,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons**](https://arxiv.org/pdf/2310.16582.pdf) | Arxiv | 2023-10-25 | - | - |
 | [**Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging**](https://arxiv.org/pdf/2310.11564.pdf) | Arxiv | 2023-10-17 | [RLPHF](https://github.com/joeljang/rlphf) | - |
+| [**Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogues**](https://arxiv.org/pdf/2310.08840.pdf) | Arxiv | 2023-10-15 | - | - |
 | [**CharacterChat：Learning towards Conversational AI with Personalized Social Support**](https://arxiv.org/pdf/2308.10278.pdf) | arXiv | 2023-08-20 | [CharacterChat](https://github.com/morecry/CharacterChat) | - |
+| [**Teach LLMs to Personalize – An Approach inspired by Writing Education**](https://arxiv.org/pdf/2308.07968.pdf) | Arxiv | 2023-08-15 | - | - |
 | [**A Survey of Challenges and Methods in the Computational Modeling of Multi-Party Dialog**](https://aclanthology.org/2023.nlp4convai-1.12.pdf) | NLP4ConvAI23 | 2023-07-14 | - | - |
 | [**Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models**](https://arxiv.org/pdf/2304.13835.pdf) | Arxiv | 2023-06-08 | [MultiLIGHT](https://github.com/facebookresearch/LIGHT/tree/main/light/modeling/tasks/multilight) | - |
 | [**Hi Sheldon! Creating Deep Personalized Characters from TV Shows**](https://arxiv.org/pdf/2304.11093.pdf) | arXiv | 2023-04-09 | [Deep-Personalized-Character-Dataset-DPCD](https://github.com/Metaverse-AI-Lab-THU/Deep-Personalized-Character-Dataset-DPCD) | - |
