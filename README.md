@@ -71,6 +71,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 | [**Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs**](https://arxiv.org/abs/2305.14693) | Arxiv | 2023-05-24 | - | - |
 | [**Who is GPT-3? An Exploration of Personality, Values and Demographics**](https://arxiv.org/abs/2209.14338) | Arxiv | 2022-12-26 | - | - |
 
+#### Benchmark
+
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**LaMP: When Large Language Models Meet Personalization**](https://arxiv.org/pdf/2304.11406.pdf) | Arxiv23 | 2023-05-19 | - | - |
+
 ## Awesome Datasets
 
 - [GPTeacher/Roleplay](https://huggingface.co/datasets/QingyiSi/Alpaca-CoT/tree/main/GPTeacher/Roleplay)
