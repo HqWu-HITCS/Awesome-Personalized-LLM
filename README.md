@@ -1,13 +1,17 @@
-# Awesome-LLM-Role-Playing
-This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. 
+# Awesome-Personalized-LLM
+This repo aims to record resource of personalized LLMs, including role playing, personalized chat, and personality traits of LLm etc. 
 
-We strongly encourage the researchers that want to promote their fantastic work to the LLM role-playing community to make pull request to update their paper's information!
+We strongly encourage the researchers that want to promote their fantastic work to the personalized LLM community to make pull request to update their paper's information!
 
-- [Awesome-LLM-Role-Playing](#awesome-llm-role-playing)
+- [Awesome-Personalized-LLM](#awesome-personalized-llm)
   - [Awesome Papers](#awesome-papers)
     - [Role-Playing](#role-playing)
     - [Personalized Chat](#personalized-chat)
     - [Evaluation Personality of LLM](#evaluation-personality-of-llm)
+      - [Myers–Briggs Type Indicator (MBTI) Evaluation](#myersbriggs-type-indicator-mbti-evaluation)
+      - [Big Five Factors Evaluation](#big-five-factors-evaluation)
+      - [Other Personal Evaluation](#other-personal-evaluation)
+    - [Benchmark](#benchmark)
   - [Awesome Datasets](#awesome-datasets)
   - [Related Repositories](#related-repositories)
 
@@ -71,10 +75,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 | [**Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs**](https://arxiv.org/abs/2305.14693) | Arxiv | 2023-05-24 | - | - |
 | [**Who is GPT-3? An Exploration of Personality, Values and Demographics**](https://arxiv.org/abs/2209.14338) | Arxiv | 2022-12-26 | - | - |
 
-#### Benchmark
+### Benchmark
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) | - |
 | [**LaMP: When Large Language Models Meet Personalization**](https://arxiv.org/pdf/2304.11406.pdf) | Arxiv23 | 2023-05-19 | - | - |
 
 ## Awesome Datasets
@@ -90,3 +95,5 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Related Repositories
 
 - [Paper reading list in dialogue systems](https://github.com/iwangjian/Paper-Reading#personalized-dialogue)
+- [LLM and Society](https://github.com/penguinnnnn/awesome-llm-and-society)
+- [Persona Paper](https://github.com/Sahandfer/PersonaPaper)
