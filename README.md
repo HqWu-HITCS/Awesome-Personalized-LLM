@@ -22,6 +22,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment**](https://arxiv.org/pdf/2401.12474.pdf) | Arxiv24 | 2024-01-24 | [Ditto](https://github.com/OFA-Sys/Ditto) | - |
 | [**CharacterGLM: Customizing Chinese Conversational AI Characters with  Large Language Models**](https://arxiv.org/pdf/2311.16832.pdf) | Arxiv23 | 2023-11-19 | [CharacterGLM-6B](https://github.com/thu-coai/CharacterGLM-6B) | - |
 | [**Character-LLM: A Trainable Agent for Role-Playing**](https://arxiv.org/pdf/2310.10158v1.pdf) | EMNLP23 | 2023-10-16 | [trainable-agents](https://github.com/choosewhatulike/trainable-agents) | - |
 | [**Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters**](https://arxiv.org/abs/2211.06869) | EMNLP23 | 2023-10-09 | [HPD](https://nuochenpku.github.io/HPD.github.io/) | - |
