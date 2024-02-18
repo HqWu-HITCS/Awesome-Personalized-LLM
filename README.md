@@ -38,6 +38,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**ControlLM: Crafting Diverse Personalities for Language Models**](https://arxiv.org/pdf/2402.10151.pdf) | Arxiv | 2024-02-15 | [ControlLM](https://github.com/wengsyx/ControlLM) | - |
 | [**Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons**](https://arxiv.org/pdf/2310.16582.pdf) | Arxiv | 2023-10-25 | - | - |
 | [**Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging**](https://arxiv.org/pdf/2310.11564.pdf) | Arxiv | 2023-10-17 | [RLPHF](https://github.com/joeljang/rlphf) | - |
 | [**Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogues**](https://arxiv.org/pdf/2310.08840.pdf) | Arxiv | 2023-10-15 | - | - |
