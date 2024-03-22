@@ -22,6 +22,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**](https://arxiv.org/pdf/2403.13679.pdf) | Arxiv24 | 2024-03-21 | [RoleInteract](https://github.com/X-PLUG/RoleInteract) | - |
 | [**Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent**](https://arxiv.org/pdf/2402.13717.pdf) | Arxiv24 | 2024-02-21 | [Neeko](https://github.com/weiyifan1023/Neeko) | - |
 | [**Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment**](https://arxiv.org/pdf/2401.12474.pdf) | Arxiv24 | 2024-01-24 | [Ditto](https://github.com/OFA-Sys/Ditto) | - |
 | [**CharacterGLM: Customizing Chinese Conversational AI Characters with  Large Language Models**](https://arxiv.org/pdf/2311.16832.pdf) | Arxiv23 | 2023-11-19 | [CharacterGLM-6B](https://github.com/thu-coai/CharacterGLM-6B) | - |
